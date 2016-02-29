@@ -15,4 +15,4 @@ A small how to on monit
     * make # Creates monitrc
     * monit -c monitrc
     * monit status xyz
-    * Or use browser
+    * Or use browser http://localhost:2812
