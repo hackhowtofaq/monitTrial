@@ -1,0 +1,5 @@
+monit.id
+monit.pid
+monit.state
+monit.log
+monitrc
